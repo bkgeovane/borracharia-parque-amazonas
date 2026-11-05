@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://borrachariaparqueamazonia.giam.com.br/sitemap.xml

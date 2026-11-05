@@ -14,4 +14,4 @@ Cloudflare Pages → Create → Connect to Git → este repo. Build command: (va
 1. Criar o **Perfil da Empresa no Google** (business.google.com) no endereço Av. José Leandro da Cruz, Parque Amazônia — categoria "Borracharia", horário 7h–18h, telefone (62) 98236-8263, link do site, fotos.
 2. Pedir para clientes avaliarem no Google.
 3. Cadastrar o site no Google Search Console e enviar `sitemap.xml`.
-4. Se mudar o domínio, troque `borrachariaparqueamazonas.pages.dev` em `index.html`, `robots.txt` e `sitemap.xml`.
+4. Se mudar o domínio, troque `borrachariaparqueamazonia.giam.com.br` em `index.html`, `robots.txt` e `sitemap.xml`.

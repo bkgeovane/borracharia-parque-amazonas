@@ -4,3 +4,11 @@ ideia.txt
 src-art/*.jpg
 src-art/*.png
 node_modules/
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
+.wrangler/
