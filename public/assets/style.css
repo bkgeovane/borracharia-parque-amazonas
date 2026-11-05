@@ -162,3 +162,4 @@ html.print .reveal{opacity:1;transform:none;transition:none}html.print *{animati
 .barra span{font-size:14px;font-weight:600}
 @keyframes sobe{from{transform:translateY(120%)}}
 @media (min-width:961px){.barra{left:auto;right:100px;width:420px}}
+.dev{margin-top:10px;font-size:13px;opacity:.8}.dev a{color:var(--y);font-weight:600}
