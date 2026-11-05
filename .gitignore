@@ -1,0 +1,6 @@
+ideia.txt
+*.ogg
+.test/
+src-art/*.jpg
+src-art/*.png
+node_modules/
